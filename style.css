@@ -1,0 +1,9 @@
+body{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.items li{
+    margin: 5px;
+    cursor: pointer;
+}
